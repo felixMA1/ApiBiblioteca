@@ -145,7 +145,7 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Desktop\BaseRepositorio\BaseRepositorio\BaseRepositorio.csproj">
+    <ProjectReference Include="..\BaseRepositorio\BaseRepositorio\BaseRepositorio.csproj">
       <Project>{72872631-49c6-491a-9466-a9a5b4b879ba}</Project>
       <Name>BaseRepositorio</Name>
     </ProjectReference>

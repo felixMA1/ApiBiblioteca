@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBiblioteca", "ApiBibliot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioBiblioteca", "RepositorioBiblioteca\RepositorioBiblioteca.csproj", "{17E9C150-B830-46C7-9E09-C98579135872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRepositorio", "..\..\..\..\Desktop\BaseRepositorio\BaseRepositorio\BaseRepositorio.csproj", "{72872631-49C6-491A-9466-A9A5B4B879BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRepositorio", "BaseRepositorio\BaseRepositorio\BaseRepositorio.csproj", "{72872631-49C6-491A-9466-A9A5B4B879BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
