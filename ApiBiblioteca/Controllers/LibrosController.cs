@@ -69,6 +69,7 @@ namespace ApiBiblioteca.Controllers
         [ResponseType(typeof (LibroViewModel))]
         public IHttpActionResult BorrarLibro(int id)
         {
+
             var data = Repositorio.Borrar(id);
             return Ok(data);
         }
